@@ -1,4 +1,4 @@
-# Hi there, I'm Handika Pratama 👋
+# Hi 👋 I'm Handika Pratama 
 
 I'm an Information Technology student at Universitas Amikom Purwokerto and an academic practicum assistant. I have a strong passion for blending software development with creative UI/UX design.
 
@@ -31,6 +31,7 @@ I'm an Information Technology student at Universitas Amikom Purwokerto and an ac
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Handika27&show_icons=true&theme=radical&hide_border=true" alt="Handika's GitHub Stats" />
-</p>
+
+[![Handika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Handika27&show_icons=true&theme=radical&hide_border=true)](https://github.com/Handika27)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Handika27&theme=radical&hide_border=true)](https://github.com/Handika27)
