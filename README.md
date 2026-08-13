@@ -2,9 +2,9 @@
 
 I'm an Information Technology student at Universitas Amikom Purwokerto and an academic practicum assistant. I have a strong passion for blending software development with creative UI/UX design.
 
-### 🚀 About Me
-- 🔭 I’m currently focused on IT Governance, Data Analysis, and Web Development.
-- 🤝 I actively collaborate on academic projects and research, taking on roles as both a programmer, designer, and presenter.
+### 🔭 About Me
+- I’m currently focused on IT Governance, Project Management, Web and Software Development.
+- 🤝 I actively enjoy taking on roles as both a programmer, designer, and project management.
 - 💬 Ask me about software testing, UI/UX design, or how to build a clean Life Dashboard!
 
 ### 🛠️ Tech Stack & Tools
