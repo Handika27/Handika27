@@ -35,5 +35,3 @@ I'm an Information Technology student at Universitas Amikom Purwokerto and an ac
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handika27&layout=compact&theme=tokyonight&hide_border=true" alt="Handika's Top Languages" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Handika27&theme=radical&hide_border=true)](https://github.com/Handika27)
