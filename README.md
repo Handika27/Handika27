@@ -8,6 +8,7 @@ I'm an Information Technology student at Universitas Amikom Purwokerto and an ac
 - 💬 Ask me about software testing, UI/UX design, or how to build a clean Life Dashboard!
 
 ### 🛠️ Tech Stack & Tools
+
 **Languages & Frameworks:**
 <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +17,7 @@ I'm an Information Technology student at Universitas Amikom Purwokerto and an ac
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Design & Multimedia:**
 <br/>
@@ -30,8 +32,19 @@ I'm an Information Technology student at Universitas Amikom Purwokerto and an ac
 
 ---
 
-### 📊 Top Languages Used
+### 📂 Featured Projects
+Here are some of my recent works:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handika27&layout=compact&theme=tokyonight&hide_border=true" alt="Handika's Top Languages" />
-</p>
+* **[To-Do List Life Dashboard](https://github.com/Handika27/To-Do-List-Life-Dashboard)** - A clean, client-side productivity dashboard featuring a Pomodoro timer and task management.
+* **[MVP Budget Visualizer](https://github.com/Handika27/CodingCamp-3August26-handikapratama)** - A web application for tracking expenses and visualizing budgets.
+* **[Klinik App](https://github.com/Handika27/klinik-app)** - Desktop-based clinic management system project.
+
+---
+
+### 📫 Connect with Me
+<a href="mailto:handikatama003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://linkedin.com/in/handikapratama1">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
