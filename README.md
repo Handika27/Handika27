@@ -30,7 +30,7 @@ I'm an Information Technology student at Universitas Amikom Purwokerto and an ac
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Top Languages Used
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handika27&layout=compact&theme=tokyonight&hide_border=true" alt="Handika's Top Languages" />
